@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "3e964002d6f118a64717caa3",
+  "owner": "jichangl1",
+  "repo": "page-e082e5e752b744ddc39d5a88",
+  "title": "NTHU",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e082e5e752b744ddc39d5a88",
+      "a": "NTHU",
+      "b": "2027最新官网",
+      "entity": "NTHU",
+      "brand": "NTHU",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "fc8ef5d58a5371a609b10118ef77dcbb79d12ba16d35778b8c20350876856337",
+      "content": {
+        "primary_entity": "NTHU",
+        "keyword1": "NTHU",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按 Windows、macOS、iOS、Android 与路由器分组列出的常用客户端，导入订阅后按所选节点连接。",
+          "AI_CLIENTS_TITLE": "常用客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐并在客户端导入订阅，让跨区连接更稳定省心。",
+          "AI_CLOSING_TITLE": "从合适套餐开始",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，月流量从 100GB 到 1000GB，设备数从 3 台到 20 台，按年付更省。旗舰版含 IPLC 专线游戏加速优化与全节点流媒体解锁，团队版支持企业定制路由和专属客户经理。客户端覆盖 Windows、macOS、iOS、Android 与路由器，导入订阅后即可按场景挑选节点。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量与订阅周期三个角度，快速匹配合适的使用方式。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "基础版、旗舰版与团队版分别对应 100GB、300GB、1000GB 月流量，按需选档。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台，旗舰版 5 台，团队版 20 台，先数清常用设备再下单。",
+          "AI_FEATURE_TITLE_2": "按设备定级",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FEATURE_TITLE_3": "按周期付费",
+          "AI_GUIDE_INTRO": "三步走顺订阅设置流程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "NTHU 海外加速器以多档订阅适配不同使用强度，从日常浏览到跨区游戏、流媒体播放与团队协作，按流量和设备数量选择版本，再在对应客户端导入订阅即可连接。",
+          "AI_HERO_SUBTITLE": "多档订阅，灵活跨区",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数区分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "年付价格更省，适合长期使用",
+          "AI_PLANS_INTRO": "基础版适合轻量浏览，旗舰版兼顾游戏与流媒体，团队版面向多设备协作场景。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "结合月流量、同时在线设备数与常用场景，确定基础版、旗舰版或团队版。",
+          "AI_STEP_TITLE_1": "选定服务",
+          "AI_STEP_TEXT_2": "依据操作系统或路由器型号，确认可用客户端与所需权限，如系统代理或全局路由。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "在客户端中导入订阅地址，按文档完成节点选择与连接测试，即可开始使用。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "NTHU 海外加速器",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。多设备用户可先确认常用终端数量，再按套餐上限选择。",
+          "AI_FAQ_ANSWER_2": "每月流量分别为 100GB、300GB 与 1000GB。日常浏览与视频可选基础版，高频流媒体或游戏加速可选旗舰版，团队协作选团队版。",
+          "AI_FAQ_ANSWER_3": "可以。客户端因设备系统而异，手机、电脑与路由器可分别选用对应客户端，按客户端文档完成订阅导入即可。",
+          "AI_FAQ_ANSWER_4": "年付更划算：基础版按年付 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，相比月付可节省两个月左右费用。",
+          "AI_FAQ_ANSWER_5": "购买后获得订阅地址，将其导入所选客户端并更新节点即可使用。如遇配置问题，可按客户端文档逐步核对订阅链接与设备权限。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "NTHU 套餐最多支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_2": "不同套餐的每月流量有什么区别？",
+          "AI_FAQ_QUESTION_3": "NTHU 可以在手机和电脑上同时使用吗？",
+          "AI_FAQ_QUESTION_4": "按年付和按月付哪种更划算？",
+          "AI_FAQ_QUESTION_5": "购买后如何配置订阅并开始使用？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "haitajichang.com",
+    "host": "haitajichang.com"
+  },
+  "file_hashes": {
+    "index.html": "a68817d9a642b9d3b6395642cc2eb25b86400f5303bb9c911e3df481a804d997",
+    "sitemap.xml": "4992ae83d15157bdddd7e19b0b2c2cee96cfbf3b61c7d3611a05b04005be5fdc",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "7ce40af3cd29cbee3a3d20519cf69adc24910a36a5e0209a4e91810a017d8977",
+    "robots.txt": "2b6f08f30e57ab366757a1e46128db524b9d0d4e04e89c8c420d3095de29724d",
+    "aac2912a868594f60efdf29e7c4d1530.txt": "76ab6f36ecdc8d7cddf1261ea06b89961dbeccaf667bd56dbf2add6c6828c638"
+  },
+  "revision": "8ed7cfd18dfde842222d51889401ea4be97fe80a751092e415fae0c4382d1289"
+}
